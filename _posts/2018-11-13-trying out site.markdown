@@ -3,7 +3,6 @@ layout: post
 comments: true
 title:  "Testing this out"
 date:   2018-11-13 10:09
-categories: jekyll update
 ---
 
 First thing first, trying out how blog posts are working and how to make them all appear correctly on the site. 
