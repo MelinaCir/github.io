@@ -1,0 +1,13 @@
+---
+layout: post
+comments: true
+title:  "Comments and Open Graph"
+date:   2018-12-19 10:09
+---
+
+# Talking about comments
+
+How did you implements comments to blog posts?
+
+I decided to use Disqus to implement comments on my site. It took a while to set it up, as I could not get Disqus to show up on my site at all. After some error searching and help from on of the teacher assistants we eventually found what I was missing. I had misunderstood how to find the shortname that needed to be included in my config-file to be able to access Disqus. After finding this on my user site at Disqus the comment block finally showed up and have worked since then. 
+
