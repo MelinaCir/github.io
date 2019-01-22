@@ -5,5 +5,5 @@
 
   /* SITE */
     Last Update: 2019/01/17
-    Language: English
+    Language: English/Swedish
     

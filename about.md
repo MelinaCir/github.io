@@ -2,6 +2,9 @@
 layout: page
 title: About me
 permalink: /aboutme/
+categories: about
+image: ./images/me.png
+url: http://localhost:4000/aboutme/
 ---
 ![PicOfMe](/images/me.png)
 
@@ -14,6 +17,8 @@ Innan detta jobbade jag inom ekonomi i flera år, men det var dags för en för�
 
 På fritiden spenderat jag mycket tid med gaming av alla slag. Jag är i grund och botten en konsolspelare som älskar allt från platformspusselspel till RPGs och äventyrsspel.
 Förutom det är jag även en Lego-fantast, virkar mycket, läser ännu mer och gillar alla möjliga former av pysslande och nörderier.
+
+<br>
 
 (And since the rest of this site is in English, I should probably rewrite this text in English too.)
 
