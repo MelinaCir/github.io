@@ -4,7 +4,7 @@ comments: true
 title:  "Testing this out"
 date:   2018-11-13 10:09
 categories: blogpost
-image: ./images/leaves.png
+image: "leaves.png"
 url: http://localhost:4000/2018/11/13/trying-out-site.html
 ---
 

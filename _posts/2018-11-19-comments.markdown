@@ -4,7 +4,7 @@ comments: true
 title:  "Comments"
 date:   2018-12-19 10:09
 type: blogpost
-image: /images/mels.png
+image: "mels.png"
 url: http://localhost:4000/2018/12/19/comments.html
 ---
 

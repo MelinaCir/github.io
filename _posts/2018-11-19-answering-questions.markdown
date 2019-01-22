@@ -4,7 +4,7 @@ title:  "Answering questions"
 date:   2018-11-19 07:22
 comments: true
 categories: blogpost
-image: ./images/mels.png
+image: "mels.png"
 url: http://localhost:4000/2018/11/19/answering-questions.html
 ---
 

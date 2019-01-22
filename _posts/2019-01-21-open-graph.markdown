@@ -4,7 +4,7 @@ comments: true
 title:  "Open Graph"
 date:   2019-01-20 09:09
 categories: blogpost
-image: mels.png
+image: "mels.png"
 url: http://localhost:4000/2019/01/20/open-graph.html
 ---
 
