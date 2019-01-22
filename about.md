@@ -3,7 +3,7 @@ layout: page
 title: About me
 permalink: /aboutme/
 categories: about
-image: ./images/me.png
+image: "me.png"
 url: http://localhost:4000/aboutme/
 ---
 ![PicOfMe](/images/me.png)
